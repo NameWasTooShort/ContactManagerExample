@@ -38,5 +38,5 @@ public class ContactManager {
     public void clearContacts(){
         this.contactList = new Contact[0];
     }
-
+    // COMMENT!
 }
