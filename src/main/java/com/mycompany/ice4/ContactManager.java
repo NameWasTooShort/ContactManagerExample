@@ -38,7 +38,9 @@ public class ContactManager {
     public void clearContacts(){
         this.contactList = new Contact[0];
         
-        // Change is made
+        // Change is made locally
+
+	// A change is made to test remote -> local
     }
 
 }
