@@ -41,6 +41,8 @@ public class ContactManager {
         // Change is made locally
 
 	// A change is made to test remote -> local
+        
+        // Change made on the branch
     }
 
 }
